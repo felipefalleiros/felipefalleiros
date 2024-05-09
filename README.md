@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oi, meu nome é Felipe Falleiros!
+**Programador em construção...**
+
+Voltando a estudar programação depois de alguns anos.\
+Atualmente focado em aprender python, mas aberto para novas linguagens e desafios!
+ 
 
 <!--
 **felipefalleiros/felipefalleiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
