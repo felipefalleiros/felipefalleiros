@@ -2,7 +2,7 @@
 **Programador em construção...**
 
 Voltando a estudar programação depois de alguns anos.\
-Atualmente focado em aprender python, mas aberto para novas linguagens e desafios!
+Atualmente focado em aprender python, mas aberto para novas linguagens!
  
 
 <!--
